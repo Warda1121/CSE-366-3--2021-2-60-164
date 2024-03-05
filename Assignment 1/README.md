@@ -7,7 +7,7 @@ Develop a simulation for a robot moving through a grid-based environment conside
 
 **Report**
 
-We hve used the Uniform CostSearch (UCS) and A* (A Star) algorithm.
+We have used the Uniform CostSearch (UCS) and A* (A Star) algorithm.
 Here we have made changes in agent  class.
 the function battery Manager shows that after each step the Battery charge will decrease by 10%. It will recharge again after the battery level is left only 10%.
 
