@@ -5,10 +5,10 @@ objectives are to minimize the total production time, ensure a balanced workload
 prioritize critical tasks effectively. Additionally, you will create a detailed visualization to illustrate the final
 task assignments, robot efficiencies, and task priorities.
 
-<h5>**File**</h5>
+**File**
 [RobotTaskOptimization.ipynb](RobotTaskOptimization.ipynb)
 
-<h5>**Report**</h5>
+**Report**
 
 Approach:
 
