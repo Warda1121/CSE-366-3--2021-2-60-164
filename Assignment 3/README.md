@@ -5,7 +5,7 @@ learning models for computer vision tasks. You have the option to focus on eithe
 classification or object detection, using specific datasets and model architectures.
 
 **File**
-[CoffeeLeafClassification.ipynb](LeafClassification.ipynb)
+[CoffeeLeafClassification.ipynb](CoffeeLeafClassification.ipynb)
 
 **Dataset**
 ([Link](https://data.mendeley.com/datasets/brfgw46wzb/1))
